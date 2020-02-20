@@ -1,0 +1,7 @@
+d:\users\admin\source\repos\splitstring\splitstring\bin\Debug\splitstring.exe.config
+d:\users\admin\source\repos\splitstring\splitstring\bin\Debug\splitstring.exe
+d:\users\admin\source\repos\splitstring\splitstring\bin\Debug\splitstring.pdb
+d:\users\admin\source\repos\splitstring\splitstring\obj\Debug\splitstring.csprojResolveAssemblyReference.cache
+d:\users\admin\source\repos\splitstring\splitstring\obj\Debug\splitstring.csproj.CoreCompileInputs.cache
+d:\users\admin\source\repos\splitstring\splitstring\obj\Debug\splitstring.exe
+d:\users\admin\source\repos\splitstring\splitstring\obj\Debug\splitstring.pdb
